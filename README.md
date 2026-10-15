@@ -6,14 +6,12 @@ Hi, I'm Juan👋
 
 </div>
 <br>
-🚀 I am passionate about creating digital experiences that combine technology, design, and communication.
-<br>
-<br>
+I am passionate about creating digital experiences that combine technology, design, and communication.
 Currently, I am consolidating my web development skills and building projects that allow me to solve problems and turn ideas into technological solutions.
 <br>
 <br>
 
-🌱 Current Focus: Consolidating my Full Stack development skills through hands-on projects.
+Current Focus: Consolidating my Full Stack development skills through hands-on projects.
 
 💻 Tech Stack: React, JavaScript, Python, and Flask.
 
@@ -33,7 +31,7 @@ Currently, I am consolidating my web development skills and building projects th
 </div>
 <br>
 <br>
-🎨 Beyond the Code
+🌱 Beyond the Code
 My background in Corporate Communication and Public Relations brings a unique, complementary perspective to software development.
 I am passionate about bridging the gap between programming logic, visual design, brand identity, and user experience.
 I believe in technology as a powerful tool to communicate, create, and solve real-world problems.
