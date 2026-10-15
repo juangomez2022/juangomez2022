@@ -1,6 +1,16 @@
-¡Hola! 👋 Soy Juan David Gómez
+<div align="center">
 
-💻 Desarrollador Full Stack en formación | 🎨 Comunicación y diseño digital
+<img src="./assets/banner.png" alt="Banner de Juan David Gómez" width="100%"/>
+
+¡Hola! Soy Juan David Gómez 👋
+
+Full Stack Developer | UI/UX Enthusiast
+
+💻 Desarrollo web · 🎨 Diseño digital · 🚀 Soluciones creativas
+
+Aprender, crear y comunicar.
+
+</div>
 
 🚀 Me apasiona crear experiencias digitales que combinen tecnología, diseño y comunicación.
 
