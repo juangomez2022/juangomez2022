@@ -24,7 +24,7 @@ Currently, I am consolidating my web development skills and building projects th
 🇨🇴 Colombia.
 
 
-                                                 🛠️ Technologies & Tools
+                                                    🛠️ Technologies & Tools
 
 <div align="center">
 
@@ -40,7 +40,7 @@ I believe in technology as a powerful tool to communicate, create, and solve rea
 <br>
 <br>
  
-                                                    📫 Connect with me
+                                                     📫 Connect with me
   
 <div align="center">
 
