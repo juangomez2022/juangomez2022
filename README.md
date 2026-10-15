@@ -24,15 +24,6 @@ Backend y bases de datos
 
 Herramientas de desarrollo y diseño
 
-🚀 Proyectos destacados
-
-🛒 SmartMarket — Comparación de precios
-
-Plataforma orientada a comparar precios de productos entre supermercados y ayudar a las personas a optimizar su presupuesto de compra.
-
-Tecnologías: React, JavaScript, Python, Flask y PostgreSQL.
-
-🔗 Ver repositorio del proyecto
 
 🎨 Más allá del código
 
