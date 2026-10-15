@@ -1,60 +1,62 @@
+Hi, I'm Juan👋
+
 <div align="center">
 
 <img src="./assets/banner.jpeg" alt="Banner de Juan David Gómez" width="100%"/>
 
 </div>
+<br>
+🚀 I am passionate about creating digital experiences that combine technology, design, and communication.
+<br>
+<br>
+Currently, I am consolidating my web development skills and building projects that allow me to solve problems and turn ideas into technological solutions.
+<br>
+<br>
 
-🚀 Me apasiona crear experiencias digitales que combinen tecnología, diseño y comunicación.
+🌱 Current Focus: Consolidating my Full Stack development skills through hands-on projects.
 
-Actualmente estoy fortaleciendo mis habilidades en desarrollo web y construyendo proyectos que me permiten resolver problemas y convertir ideas en soluciones digitales.
+💻 Tech Stack: React, JavaScript, Python, and Flask.
 
-🌱 Aprendiendo y practicando desarrollo Full Stack.
+🎨 Interests: UI design, user experience (UX), and digital communication.
 
-💻 Construyendo proyectos con React, JavaScript, Python y Flask.
-
-🎨 Interesado en el diseño UI, la experiencia de usuario y la comunicación digital.
-
-🎯 Mi objetivo: desarrollar soluciones web útiles, intuitivas y visualmente atractivas.
+🎯 My Goal: To build useful, intuitive, and visually engaging web solutions.
 
 🇨🇴 Colombia.
 
-                                              🛠️ Tecnologías y herramientas
+
+                                                 🛠️ Technologies & Tools
 
 <div align="center">
 
 <img src="https://skillicons.dev/icons?i=html,css,js,react,python,flask,postgres,bootstrap,git,github&perline=5" alt="Tecnologías y herramientas" />
 
 </div>
-
-
-🎨 Más allá del código
-
-Mi formación en Comunicación Corporativa y Relaciones Públicas me aporta una perspectiva complementaria al desarrollo de software.
-
-Me interesa conectar la lógica de la programación con el diseño visual, la identidad de marca y la experiencia de las personas.
-
-Creo en la tecnología como una herramienta para comunicar, crear y resolver problemas.
-
-📫 Conecta conmigo
-
+<br>
+<br>
+🎨 Beyond the Code
+My background in Corporate Communication and Public Relations brings a unique, complementary perspective to software development.
+I am passionate about bridging the gap between programming logic, visual design, brand identity, and user experience.
+I believe in technology as a powerful tool to communicate, create, and solve real-world problems.
+<br>
+<br>
+ 
+                                                    📫 Connect with me
+  
 <div align="center">
 
 <a href="https://github.com/juangomez2022">
-  <img src="https://skillicons.dev/icons?i=github" width="70" height="70" alt="GitHub"/>
+  <img src="https://skillicons.dev/icons?i=github" width="50" height="50" alt="GitHub"/>
 </a>
 &nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://www.linkedin.com/">
-  <img src="https://skillicons.dev/icons?i=linkedin" width="70" height="70" alt="LinkedIn"/>
+  <img src="https://skillicons.dev/icons?i=linkedin" width="50" height="50" alt="LinkedIn"/>
 </a>
 
 <br/>
 
-GitHub         LinkedIn
+GitHub      LinkedIn
 
 <br/>
 
-Gracias por visitar mi perfil.
-
-🚀 ¡Construyamos algo increíble!
 
 </div>
