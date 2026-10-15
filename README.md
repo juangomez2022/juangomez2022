@@ -1,14 +1,6 @@
 <div align="center">
 
-<img src="./assets/banner.png" alt="Banner de Juan David Gómez" width="100%"/>
-
-¡Hola! Soy Juan David Gómez 👋
-
-Full Stack Developer | UI/UX Enthusiast
-
-💻 Desarrollo web · 🎨 Diseño digital · 🚀 Soluciones creativas
-
-Aprender, crear y comunicar.
+<img src="./assets/banner.jpeg" alt="Banner de Juan David Gómez" width="100%"/>
 
 </div>
 
