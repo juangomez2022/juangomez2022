@@ -18,13 +18,13 @@ Actualmente estoy fortaleciendo mis habilidades en desarrollo web y construyendo
 
 🇨🇴 Colombia.
 
-🛠️ Tecnologías y herramientas
+                                              🛠️ Tecnologías y herramientas
 
-Frontend
+<div align="center">
 
-Backend y bases de datos
+<img src="https://skillicons.dev/icons?i=html,css,js,react,python,flask,postgres,bootstrap,git,github&perline=5" alt="Tecnologías y herramientas" />
 
-Herramientas de desarrollo y diseño
+</div>
 
 
 🎨 Más allá del código
@@ -35,10 +35,26 @@ Me interesa conectar la lógica de la programación con el diseño visual, la id
 
 Creo en la tecnología como una herramienta para comunicar, crear y resolver problemas.
 
-🤝 Conectemos
+📫 Conecta conmigo
 
-💼 LinkedIn: Juan David Gómez
+<div align="center">
 
-💻 GitHub: @juangomez2022
+<a href="https://github.com/juangomez2022">
+  <img src="https://skillicons.dev/icons?i=github" width="70" height="70" alt="GitHub"/>
+</a>
+&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.linkedin.com/">
+  <img src="https://skillicons.dev/icons?i=linkedin" width="70" height="70" alt="LinkedIn"/>
+</a>
 
-📩 Siempre abierto a aprender, colaborar y participar en nuevos proyectos.
+<br/>
+
+GitHub         LinkedIn
+
+<br/>
+
+Gracias por visitar mi perfil.
+
+🚀 ¡Construyamos algo increíble!
+
+</div>
